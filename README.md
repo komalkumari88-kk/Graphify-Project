@@ -501,5 +501,8 @@ graphify-out/
 These outputs provide an interactive visualization, machine-readable graph information and a readable architecture report.
 
 ## 22. Official References
+Graphify documentation: https://www.graphiffy.com/docs
 
-- Graphify documentation: https://www
+Graphify tutorial: https://www.graphiffy.com/docs/tutorial
+
+Graphify GitHub: https://github.com/Graphify-Labs/graphify
